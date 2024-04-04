@@ -3,7 +3,7 @@ import React from 'react';
 import './title.css';
 
 interface TitleProps {
-  level: 'h1' | 'h2' | 'h3';
+  level: 'h1' | 'h2' | 'h3' | 'h4' | 'h5';
   children: React.ReactNode;
 }
 

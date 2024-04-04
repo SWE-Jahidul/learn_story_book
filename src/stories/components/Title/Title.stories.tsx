@@ -30,7 +30,6 @@ export const Heading3: Story = {
     level: 'h3',
     children: 'Heading Level 3',
   },
-  
 };
 
 export const Heading4: Story = {
